@@ -11,6 +11,7 @@ Crud Opration
 <li>add new item </li>
 <li>you can edit your item </li>
 <li>you can update your item </li>
+<li>you can delete your item </li>
 <li> your items saved in localStorage </li>
 
 

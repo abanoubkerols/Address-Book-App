@@ -20,6 +20,7 @@ body {
     font-family: 'Nunito', sans-serif;
     min-height: 100vh;
     background-color: var(--light-grey-color);
+   
 }
 
 h1,
@@ -52,6 +53,8 @@ button {
     height: 100%;
     z-index: 1;
     display: none;
+  
+   
 
 
 
@@ -60,6 +63,7 @@ button {
 }
 
 .model {
+   
     background-color: #fff;
     border-radius: 0.6rem;
     overflow: hidden;
@@ -108,7 +112,8 @@ button {
 .model-main {
     padding: 1rem 2rem 1rem 2rem;
     max-width: 480px;
-    min-width: 420px;
+    min-width: 420px; 
+   
 }
 
 .model-row {
