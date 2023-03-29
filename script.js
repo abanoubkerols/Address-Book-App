@@ -19,7 +19,7 @@ const addrBookList = document.querySelector('#addr-book-list tbody');
 
 // -------------------------------------------------- //
 
-let addrName = firstName = lastName = email = phone = streetAddr = postCode = city = country = labels = "";
+// let addrName = firstName = lastName = email = phone = streetAddr = postCode = city = country = labels = "";
 
 
 // Address class
